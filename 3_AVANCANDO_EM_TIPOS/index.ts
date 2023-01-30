@@ -1,4 +1,3 @@
-import { firstName, lastName } from './../2_FUNDAMENTOS/string';
 // 1 - Arrays
 const numbers: number[] = [1, 2, 3];
 
